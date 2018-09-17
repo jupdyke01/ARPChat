@@ -1,0 +1,11 @@
+name: ARPChat
+version: 1.0
+main: me.jupdyke01.rpchat.Main
+author: jupdyke01
+commands:
+  g:
+    usage: /g (msg)
+  w:
+    usage: /w (msg)
+  s:
+    usage: /s (msg)
